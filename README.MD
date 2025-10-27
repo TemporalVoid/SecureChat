@@ -4,7 +4,7 @@ A secure, encrypted chat application built with Python featuring end-to-end encr
 
 ## Features
 
-- 🔐 End-to-end encryption using AES-256-GCM
+- 🔐 End-to-end encryption using RSA and AES-256-GCM
 - 👥 User authentication and registration
 - 💬 Real-time messaging
 - 📱 Modern dark-themed GUI built with CustomTkinter

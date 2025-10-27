@@ -1,0 +1,5 @@
+/.venv
+/chat_server.db
+/client.env
+/client_state.db
+/server.env
